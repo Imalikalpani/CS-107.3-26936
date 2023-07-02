@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\C# Lab 02\C# Lab question 02\C# Lab question 02\bin\Debug\C# Lab question 02.exe.config
+C:\Users\Dell\Desktop\C# Lab 02\C# Lab question 02\C# Lab question 02\bin\Debug\C# Lab question 02.exe
+C:\Users\Dell\Desktop\C# Lab 02\C# Lab question 02\C# Lab question 02\bin\Debug\C# Lab question 02.pdb
+C:\Users\Dell\Desktop\C# Lab 02\C# Lab question 02\C# Lab question 02\obj\Debug\C# Lab question 02.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\C# Lab 02\C# Lab question 02\C# Lab question 02\obj\Debug\C# Lab question 02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\C# Lab 02\C# Lab question 02\C# Lab question 02\obj\Debug\C# Lab question 02.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C# Lab 02\C# Lab question 02\C# Lab question 02\obj\Debug\C# Lab question 02.exe
+C:\Users\Dell\Desktop\C# Lab 02\C# Lab question 02\C# Lab question 02\obj\Debug\C# Lab question 02.pdb
